@@ -13,12 +13,12 @@ Usuários e departamentos é um pequeno sistema (API REST) com os seguintes caso
 ## Modelo conceitual
 ![Modelo Conceitual](https://user-images.githubusercontent.com/53848638/170318466-31582fb6-b476-4886-bdcc-47cb1b2cffbe.PNG)
 
--[DevSuperior](https://www.youtube.com/c/DevSuperior
+- Figura 01 [DevSuperior](https://www.youtube.com/c/DevSuperior
 
 ## Modelo relacional -> objeto -> json
 ![Modelo relacional](https://user-images.githubusercontent.com/53848638/170319921-2596bd01-793a-4eac-9772-9833bc4d4cf7.PNG)
 
--[DevSuperior](https://www.youtube.com/c/DevSuperior
+- Figura 02 [DevSuperior](https://www.youtube.com/c/DevSuperior
 
 - A filgura acima temos a tabela de departamento do banco de dados com chave estrangeira sendo covertida do modelo relacional para o modelo de objetos em uma linguagem de programação fazendo a tranformação com o ORM(Mapeamento Objeto relacional), facilitando assim essa convenção.
 
