@@ -1,5 +1,5 @@
 
-# Projeto Java Web no Spring Boot 2022
+# Projeto Java Web no Spring Boot
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/userdept/blob/main/LICENCE) 
 
 ## Sobre o projeto
