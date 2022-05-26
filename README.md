@@ -52,5 +52,5 @@ cd userdept
 no Boot Dashdoard startar o projeto "userdept[:8080]"
 
 ```
-Daniel Farney
-https://www.linkedin.com/in/d-farney
+- Daniel Farney
+- https://www.linkedin.com/in/d-farney
